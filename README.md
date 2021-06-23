@@ -1,3 +1,2 @@
-Hi, I'm ismael, I'm a 19 years old developer from Argentina, 
-
-My love for this branch of sciences first came when I was about 9 years old, there was this Windows 98' desktop lying around in my house and I started trying to put it back together without any prior experience of how a computer even looked inside, the thing is, after 4 to 5 hours of fighting with the motherboard and the components i finally put the hardware together, I turn it on, and oh my oh my, contrary to what I was expecting it turned on and after a while it booted into Win98, so I turned it off and there I went with my biggest smile and sense of accomplishment ever to show my dad how it was working, but my young me, stranger to the knowledge of power voltages, switched the PSU to 110v (in Argentina 220v is the standard household voltage) sooo it kind of exploded, but I was still so happy with what I had accomplished. and that's the end c:
+Hi, I'm ismael, 20 years old dev from Argentina
+My experience lays mostly on the Java programming language, but I like to play around with everything I get to know

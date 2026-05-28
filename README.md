@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ismael
 
-Former **Linux SysAdmin / ITOM / MRO**, currently transitioning into **SRE / DevOps / Cloud Engineering**.  
+Former **Linux SysAdmin / ITOM / MRO**, currently transitioning into **Cybersecurity Engineering & DevSecOps**.  
 Passionate about **Automation, Systems Design, and Distributed Computing**.
 
 ---
